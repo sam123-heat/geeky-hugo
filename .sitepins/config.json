@@ -1,11 +1,11 @@
 {
-  "media": "exampleSite/assets/images",
   "content": "exampleSite/content",
-  "code": "layouts",
-  "arrangement": [],
+  "media": "exampleSite/assets/images",
   "public": "exampleSite/static",
   "configs": [
     "exampleSite/config",
-    "exampleSite/config.toml"
-  ]
+    "exampleSite/assets/jsconfig.json"
+  ],
+  "custom-commit": false,
+  "arrangement": []
 }
